@@ -18,7 +18,7 @@
 #include <time.h>
 
 // Constantes Globais
-#define MAX_TERRITORIOS 2
+#define MAX_TERRITORIOS 5
 #define TAM_STRING 30
 
 // Definição da Estrutura (Struct) Globalmente
